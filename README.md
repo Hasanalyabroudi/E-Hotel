@@ -1,3 +1,3 @@
 # E-Hotel
 
-# Front-end react
+# Front-end (react)
